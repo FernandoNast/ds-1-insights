@@ -14,8 +14,8 @@ O tesouro nacional é relacionado a dois tipos de estudo. O primeiro é relacion
 
 ## Considerações
 Há mais ``README.md`` nas pastas dos projetos, onde são mais detalhados os processo realizados, destacando ferramentas utilizadas etc. Há ainda mais projetos de Data Science, onde encontram-se:
-* ``Data-Engineering`` - projeto que visa a extração de dados, como _web scraping_ e de banco de dados (ambos em produção);
-* ``Machine-Learning`` - visa a aplicação de _Machine Learning_, para predição, possibilitando melhor tomada de decisão do gestor. O projeto apresentado refere-se à otimização de agendamento de profiissionais de saúde;
-* ``End-To-End`` - com o objetivo de estudar _deploy_ de modelo em produção, ou seja, criar modelos com visualização e predição que fique disponnível para uma requisição de pessoa de outro time da empresa oou mesmo o cliente;
-* ``Data-Science`` - projeto que visa a aplicação de todas as fases citadas acima, bem trabalhas individualmente, desde sua extração, exploração, visualização, geração de predição e disponibilização em _cloud_.
+* [``Data-Engineering``](https://github.com/FernandoNast/ds-2-data-engineering) - projeto que visa a extração de dados, como _web scraping_ e de banco de dados (ambos em produção);
+* [``Machine-Learning``](https://github.com/FernandoNast/ds-3-machine-learning) - visa a aplicação de _Machine Learning_, para predição, possibilitando melhor tomada de decisão do gestor. O projeto apresentado refere-se à otimização de agendamento de profiissionais de saúde;
+* [``End-To-End``](https://github.com/FernandoNast/ds-4-end-to-end) - com o objetivo de estudar _deploy_ de modelo em produção, ou seja, criar modelos com visualização e predição que fique disponnível para uma requisição de pessoa de outro time da empresa oou mesmo o cliente;
+* [``Data-Science``](https://github.com/FernandoNast/ds-5-DataScience) - projeto que visa a aplicação de todas as fases citadas acima, bem trabalhas individualmente, desde sua extração, exploração, visualização, geração de predição e disponibilização em _cloud_.
 
